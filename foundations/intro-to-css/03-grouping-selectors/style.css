@@ -1,1 +1,17 @@
 /* Add CSS Styling */
+.button-text {
+    border: 2px solid black;
+    border-radius: 8px;
+    font-size: 28px;
+    font-weight: 300;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+.button-primary {
+    background-color: black;
+    color: white;
+}
+
+.button-secondary {
+    background-color: yellow;
+}
